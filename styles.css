@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+/* Styling for paragraphs with the class selector */
+.selector {
+    color: #00f; /* Font color blue */
+    background-color: #eee; /* Light gray background */
+    font-family: Arial, sans-serif; /* Font family Arial */
+    font-size: 20px; /* Font size 20px */
+}
+
+/* Styling for other paragraphs (optional if no other styles apply) */
+p {
+    margin: 10px 0; /* Adds spacing between paragraphs */
+}
